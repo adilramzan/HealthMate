@@ -1,6 +1,6 @@
-# 🩺 Daily Health Tracker
+# 🩺 Daily Health Tracker App
 
-A Kotlin-based Android app to help users track and visualize their daily health metrics including water intake, step count, sleep hours, mood, and weight. Built with modern Android tools like Jetpack Compose, Firebase, and MPAndroidChart.
+A Kotlin-based Android app to help users track & visualize their daily health metrics including water intake, step count, sleep hours, mood, and weight. Built with modern Android tools like Jetpack Compose, Firebase, and MPAndroidChart.
 
 ---
 
@@ -24,7 +24,7 @@ A Kotlin-based Android app to help users track and visualize their daily health 
 
 ### 📊 Data Visualization
 - Track trends over time using bar/line charts powered by **MPAndroidChart**.
-- View progress for the last 7 or 30 days.
+- View progress for the last 7 / 30 days.
 
 ### ⏰ Daily Reminders
 - Receive a notification at a user-defined time to input health metrics.
@@ -33,19 +33,19 @@ A Kotlin-based Android app to help users track and visualize their daily health 
 ### ⚙️ Settings
 - Toggle light/dark mode.
 - Set reminder time.
-- Export data to CSV or PDF.
+- Export data to CSV/PDF.
 
 ---
 
 ## 🧱 Tech Stack
 
-| Area               | Technology            |
+| Area               | Technology             |
 |--------------------|------------------------|
-| Language           | Kotlin                |
+| Language           | Kotlin                 |
 | UI                 | Jetpack Compose        |
-| Architecture       | SOLID Principles, MVVM |
-| Storage            | Firebase Firestore     |
+| Architecture       | MVVM, SOLID Principles |
 | Authentication     | Firebase Auth          |
+| Storage            | Firebase Firestore     |
 | Charts             | MPAndroidChart         |
 | Background Tasks   | WorkManager            |
 
@@ -81,5 +81,5 @@ A Kotlin-based Android app to help users track and visualize their daily health 
 ### Clone and Run
 
 ```bash
-https://github.com/aliabbasnagari/FitDiary
+https://github.com/adilramzan/HealthMate
 ```
